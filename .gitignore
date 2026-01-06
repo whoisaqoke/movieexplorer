@@ -1,0 +1,40 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+
+# Android
+.gradle/
+local.properties
+**/GeneratedPluginRegistrant.java
+
+# Desktop (Windows, macOS, Linux)
+/linux/flutter/ephemeral/
+/windows/flutter/ephemeral/
+/macos/Flutter/ephemeral/
+.plugin_symlinks/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Прочее
+.metadata
+analysis_options.yaml
+pubspec.lock
